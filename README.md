@@ -35,9 +35,15 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 > [!WARNING]
 > **Dica do Síndico:** Para problemas internos do condomínio (interfone quebrado, elevador parado sem passageiro ou problemas nas áreas comuns), entre em contato diretamente com a **Portaria** pelo ramal **900**.
 >
-> **AirLocker:** Em caso de problemas com suas encomendas e atualizações de cadastros Suporte **(11) 978633323**.
+> **AirLocker:** Em caso de problemas com suas encomendas e atualizações de cadastros Suporte **978633323**.
 >
-> **Portaria Remota** Além do ramal 900, a portaria nos atende também pelo telefone **(11) 
+> **Portaria Remota** Além do ramal 900, a portaria nos atende também pelo telefone **26522650** e **940003525**
+>
+> **Manutenção dos Elevadores** Crel Elevadores
+>
+> **Ramais dos Elevadores** Social **209** - Serviço **210**
+>
+> **Salão de Festas** Ramal **207**
 
 
 
@@ -71,4 +77,5 @@ Seguindo o padrão de São Paulo para evitar poluição sonora:
 
 
 ## 🗑️ Coleta de Lixo
-* O lixo deve ser colocado na lixeira em saco plastico resistente e fechado.
+* O lixo deve ser colocado na lixeira em saco plastico resistente e fechado. Lembrem-se que os coletores passam de madrugada e o que não esta dentro de sacos apropriados acabam ficando "para traz" causando mal odor e sujidade até a proxima coleta.
+* Não descarte vidros sem a devida proteção e identificação, o condominio é passível de processo em caso de acidente com o coletor.
