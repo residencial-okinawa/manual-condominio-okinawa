@@ -26,8 +26,9 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 *   **Comgás (Gás Canalizado):** **0800 0110 197** (Cheiro de gás ou emergências).
 
 ---
-> [!TIP]
+> [!DICAS]
 > **Dica do Síndico:** Para problemas internos do condomínio (interfone quebrado, elevador parado sem passageiro ou problemas nas áreas comuns), entre em contato diretamente com a **Portaria** pelo ramal **900**.
+> **AirLocker:**  Em caso de problemas com suas encomendas e atualizações de cadastros Suporte **(11) 978633323**.
 
 
 ## 🤫 Horário de Silêncio e Sossego
