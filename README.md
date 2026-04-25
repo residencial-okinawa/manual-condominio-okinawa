@@ -1,6 +1,6 @@
-# Manual Condominio Residencial Okinawa
+# Manual Condomínio Residencial Okinawa :shrine:
 Diretrizes para uma boa convivencia em nosso condominio
-# 🏢 Manual do Condomínio Okinawa
+# 🏢 Manual do Condomínio Residencial Okinawa :shrine:
 
 ## 📞 Telefones de Emergência e Serviços (SP)
 
