@@ -1,6 +1,12 @@
-# :shrine: Manual Condomínio Residencial Okinawa :shrine:
-Diretrizes para uma boa convivencia em nosso condominio
-# 🏢 :shrine: Manual do Condomínio Residencial Okinawa :shrine:
+# ⛩️ Manual do Condomínio Residencial Okinawa ⛩️
+
+> Diretrizes para uma boa convivência em nosso condomínio.
+
+---
+
+## 🏢 Sobre o Residencial
+Este manual visa organizar as regras e facilitar o acesso aos contatos úteis para todos os moradores...
+
 
 ## 📞 Telefones de Emergência e Serviços (SP)
 
@@ -30,6 +36,8 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 > **Dica do Síndico:** Para problemas internos do condomínio (interfone quebrado, elevador parado sem passageiro ou problemas nas áreas comuns), entre em contato diretamente com a **Portaria** pelo ramal **900**.
 >
 > **AirLocker:** Em caso de problemas com suas encomendas e atualizações de cadastros Suporte **(11) 978633323**.
+>
+> **Portaria Remota** Além do ramal 900, a portaria nos atende também pelo telefone **(11) 
 
 
 
