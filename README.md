@@ -55,7 +55,7 @@ Conforme a legislação da cidade de São Paulo para zonas residenciais, os limi
 | **Vespertino** | 19h às 22h | **45 dB** | Sons moderados de TV/vocal. |
 | **Noturno** | 22h às 07h | **40 dB** | Silêncio predominante. |
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **Atenção:** O direito ao sossego é garantido **24 horas por dia**. Barulhos excessivos que causem incômodo (como gritaria, som muito alto ou arraste de móveis) podem ser passíveis de notificação mesmo fora do horário noturno.
 
 ### 🛠️ Obras e Reparos
