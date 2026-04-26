@@ -79,7 +79,7 @@ Nossos Regulamento Interno e atas de assembleias, estão registrados em cartóri
 > **🚨 Canais de Suporte e Manutenção**
 >
 > **Portaria Remota (RST)**
-> * 📞 Telefones: [**2652-2650**](tel:1126522650) | [**94000-3525**](tel:11940003525) | 📟 **Ou Interfone 900**
+> * 📞 Telefones: [**2652-2650**](tel:1126522650) | [**94000-3525**](tel:11940003525) | ☎️ **Ou Interfonar 900**
 > * 📧 E-mail: [portariavirtual@rst2.com.br](mailto:portariavirtual@rst2.com.br)
 >
 > **Administração (Gênesis Consultoria & App CondoPro)**
