@@ -7,7 +7,7 @@
 ## 📌 Sumário
 1. [🏢 Sobre o Residencial](#-sobre-o-residencial)
 2. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
-3. [☎️ Ramais das Áreas Comuns](#-ramais-das-áreas-comuns)
+3. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
 4. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
 5. [🛠️ Obras e Reparos](#️-obras-e-reparos)
 6. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
