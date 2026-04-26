@@ -26,7 +26,7 @@ Ficamos felizes em ter você como parte da nossa comunidade. Este manual foi cri
 
 ### 🔑 Primeiros Passos para o Novo Morador:
 *   *   **Cadastro:** Certifique-se de que seus dados (e de seus familiares/veículos) estão atualizados na portaria e no app **Condopro**. 
-    *   👉 Baixar app: [**Android (Google Play)**](https://google.com) | [**iPhone (App Store)**](https://apple.com)
+    *   👉 Baixar app: [**Android (Google Play)**]([https://google.com](https://play.google.com/store/apps/details?id=com.athos.CondoPro&hl=pt_BR&pli=1)) | [**iPhone (App Store)**]([https://apple.com](https://apps.apple.com/br/app/condopro/id878619351))
 *   **Acesso:** Teste seus dispositivos de acesso (tags/biometria) e verifique o funcionamento do seu interfone.
 *   **Encomendas:** Cadastre-se no sistema do **AirLocker** para receber notificações de suas entregas em tempo real.
 *   **Mudanças:** Lembre-se de que mudanças devem ser agendadas com antecedência junto à administração, respeitando os horários de obras e silêncio.
