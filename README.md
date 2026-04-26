@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Sumário
-1. [🏢 Sobre o Residencial](#-sobre-o-residencial)
+1. [🏢 Sobre o Manual](#-sobre-o-manual)
 2. [👋 Boas-vindas](#-boas-vindas)
 3. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
 4. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏢 Sobre o Residencial
+## 🏢 Sobre o Manual
 Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores do Residencial Okinawa.
 
 ## 📞 Telefones de Emergência e Serviços (SP)
