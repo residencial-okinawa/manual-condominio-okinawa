@@ -106,7 +106,10 @@ Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosame
 * **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio é passível de processo em caso de acidente com o coletor.
 
 > [!TIP]
-Sacolas de supermercado podem ser utilizadas para descarte, mas se atentem a não deixá-las cheias, durante o manuseio do coletor a mesma costuma se rasgar quando estão assim e todo o lixo é deixado no chão da lixeira ou até mesmo na nossa calçada.
+*   **Volume das Sacolas:** Evite enchê-las até o limite.
+*   **Por que?** Sacolas muito cheias rasgam no manuseio, espalhando lixo na calçada.
+*   **Dica:** Divida o lixo em mais sacolas para garantir que o descarte chegue intacto ao caminhão.
+*   **Dica 2:** Quando tiver restos que causem umidade excesiva, utilize mais sacos para que o lixo não pingue no trajeto até a lixeira.
 
 [⬆️ Voltar ao índice](#-sumário)
 
