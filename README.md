@@ -42,6 +42,8 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 *   **Enel (Energia):** **0800 7272 120**
 *   **Sabesp (Água/Esgoto):** **0800 011 9911**
 *   **Comgás (Gás):** **0800 0110 197**
+  
+[⬆️ Voltar ao índice](#-sumário)
 
 ---
 
