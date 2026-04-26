@@ -5,7 +5,7 @@
 ---
 
 ## 🏢 Sobre o Residencial
-Este manual visa organizar as regras e facilitar o acesso aos contatos úteis para todos os moradores...
+Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores...
 
 
 ## 📞 Telefones de Emergência e Serviços (SP)
@@ -41,9 +41,18 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 >
 > **Manutenção dos Elevadores** Crel Elevadores
 >
-> **Ramais dos Elevadores** Social **209** - Serviço **210**
->
-> **Salão de Festas** Ramal **207**
+### 📞 Ramais das Áreas Comuns
+
+
+| Local | Ramal |
+| :--- | :---: |
+| **Elevador Social** | 209 |
+| **Elevador de Serviço** | 210 |
+| **Salão de Festas** | 207 |
+
+> [!TIP]
+> Para discar entre unidades ou para as áreas comuns, basta retirar o fone do gancho e digitar o ramal correspondente.
+
 
 
 
