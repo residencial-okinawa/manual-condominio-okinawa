@@ -5,14 +5,36 @@
 ---
 
 ## 📌 Sumário
-1. [🏢 Sobre o Residencial](#-sobre-o-residencial)
-2. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
-3. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
-4. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
-5. [🛠️ Obras e Reparos](#️-obras-e-reparos)
-6. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
-7. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
-8. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
+1. [👋 Boas-vindas](#-boas-vindas)
+2. [🏢 Sobre o Residencial](#-sobre-o-residencial)
+3. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
+4. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
+5. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
+6. [🛠️ Obras e Reparos](#️-obras-e-reparos)
+7. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
+8. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
+9. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
+
+---
+---
+
+## 👋 Boas-vindas
+
+Seja muito bem-vindo(a) ao **Residencial Okinawa**! ⛩️
+
+Ficamos felizes em ter você como parte da nossa comunidade. Este manual foi criado para ajudar na sua integração, apresentando as regras básicas que garantem o respeito, a segurança e a harmonia entre todos os vizinhos.
+
+### 🔑 Primeiros Passos para o Novo Morador:
+*   *   **Cadastro:** Certifique-se de que seus dados (e de seus familiares/veículos) estão atualizados na portaria e no app **Condopro**. 
+    *   👉 Baixar app: [**Android (Google Play)**](https://google.com) | [**iPhone (App Store)**](https://apple.com)
+*   **Acesso:** Teste seus dispositivos de acesso (tags/biometria) e verifique o funcionamento do seu interfone.
+*   **Encomendas:** Cadastre-se no sistema do **AirLocker** para receber notificações de suas entregas em tempo real.
+*   **Mudanças:** Lembre-se de que mudanças devem ser agendadas com antecedência junto à administração, respeitando os horários de obras e silêncio.
+
+> [!NOTE]
+> **Dica de Convivência:** Um simples "Bom Dia" no elevador e o cuidado com as áreas comuns são o primeiro passo para uma vizinhança incrível. Contamos com você!
+
+[⬆️ Voltar ao índice](#-sumário)
 
 ---
 
