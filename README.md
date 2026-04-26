@@ -16,29 +16,6 @@
 9. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
 
 ---
----
-
-## 👋 Boas-vindas
-
-Seja muito bem-vindo(a) ao **Residencial Okinawa**! ⛩️
-
-Ficamos felizes em ter você como parte da nossa comunidade. Este manual foi criado para ajudar na sua integração, apresentando as regras básicas que garantem o respeito, a segurança e a harmonia entre todos os vizinhos.
-Nossos Regulamento Interno e atas de assembleias, estão registrados em cartório e pode ser acessado [**aqui**](https://drive.google.com/drive/folders/1BHIdtfPYbgHAHRZrfsX9yZYB3FdzcwQv).
-
-### 🔑 Primeiros Passos para o Novo Morador:
-*   **Cadastro:** Certifique-se de que seus dados (e demais moradores da unidade/veículos/pets) estão atualizados na portaria e no app **CondoPro**. 
-    *   👉 Baixar app: [**Android (Google Play)**](https://play.google.com/store/apps/details?id=com.athos.CondoPro) | [**iPhone (App Store)**](https://apps.apple.com/br/app/condopro/id878619351)
-*   **Acesso:** Teste seus dispositivos de acesso (Faciais e controles da garagem) e verifique o funcionamento do seu interfone.
-*   **Encomendas:** Cadastre-se no sistema do **AirLocker** para receber notificações de suas entregas em tempo real.
-*   **Mudanças:** Lembre-se de que mudanças devem ser agendadas com antecedência junto à administração, respeitando os horários de obras e silêncio.
-*   **Elevadores:** O transporte de itens grandes, devem ser avisados com antecedencia para a proteção do mesmo.
-
-> [!NOTE]
-> **Dica de Convivência:** Um simples "Bom Dia" no elevador e o cuidado com as áreas comuns são o primeiro passo para uma vizinhança incrível. Contamos com você!
-
-[⬆️ Voltar ao índice](#-sumário)
-
----
 
 ## 🏢 Sobre o Residencial
 Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores do Residencial Okinawa.
@@ -72,6 +49,28 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 *   **Sabesp (Água/Esgoto):** **0800 011 9911**
 *   **Comgás (Gás):** **0800 0110 197**
   
+[⬆️ Voltar ao índice](#-sumário)
+
+---
+
+## 👋 Boas-vindas
+
+Seja muito bem-vindo(a) ao **Residencial Okinawa**! ⛩️
+
+Ficamos felizes em ter você como parte da nossa comunidade. Este manual foi criado para ajudar na sua integração, apresentando as regras básicas que garantem o respeito, a segurança e a harmonia entre todos os vizinhos.
+Nossos Regulamento Interno e atas de assembleias, estão registrados em cartório e pode ser acessado [**aqui**](https://drive.google.com/drive/folders/1BHIdtfPYbgHAHRZrfsX9yZYB3FdzcwQv).
+
+### 🔑 Primeiros Passos para o Novo Morador:
+*   **Cadastro:** Certifique-se de que seus dados (e demais moradores da unidade/veículos/pets) estão atualizados na portaria e no app **CondoPro**. 
+    *   👉 Baixar app: [**Android (Google Play)**](https://play.google.com/store/apps/details?id=com.athos.CondoPro) | [**iPhone (App Store)**](https://apps.apple.com/br/app/condopro/id878619351)
+*   **Acesso:** Teste seus dispositivos de acesso (Faciais e controles da garagem) e verifique o funcionamento do seu interfone.
+*   **Encomendas:** Cadastre-se no sistema do **AirLocker** para receber notificações de suas entregas em tempo real.
+*   **Mudanças:** Lembre-se de que mudanças devem ser agendadas com antecedência junto à administração, respeitando os horários de obras e silêncio.
+*   **Elevadores:** O transporte de itens grandes, devem ser avisados com antecedencia para a proteção do mesmo.
+
+> [!NOTE]
+> **Dica de Convivência:** Um simples "Bom Dia" no elevador e o cuidado com as áreas comuns são o primeiro passo para uma vizinhança incrível. Contamos com você!
+
 [⬆️ Voltar ao índice](#-sumário)
 
 ---
