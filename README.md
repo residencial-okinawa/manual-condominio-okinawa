@@ -148,7 +148,7 @@ Materiais volumosos não são recolhidos pela coleta comum. Utilize os **Ecopont
 ### 📍 Unidades mais próximas:
 <details>
 <summary>📍 Clique aqui para ver os endereços dos Ecopontos</summary>
-1. **Ecoponto Astarte (Vila Carrão)** ⬅️ *Mais próximo*
+1. **Ecoponto Astarte (Vila Carrão)**
    * **Endereço:** Rua Astarte, 500 - Vila Carrão.
 
 2. **Ecoponto Viaduto Eng.º Alberto Badra**
