@@ -79,6 +79,7 @@ Nossos Regulamento Interno e atas de assembleias, estão registrados em cartóri
 > **Dica do Síndico:** Para problemas internos do condomínio, ligue para a **Portaria (Ramal 900)**.
 >
 > * **Portaria Remota:** [**2652-2650**](tel:1126522650) | [**94000-3525**](tel:11940003525)
+> * **Genesis Consultoria:** app **CondoPro** e boletos condominiais [**2094-2227**](tel:1120942227) | [**2295-7721**](tel:1122957721)
 > * **AirLocker:** Suporte (encomendas/cadastro) [**97863-3323**](tel:11978633323)
 > * **Manutenção Elevadores:** Crel Elevadores [**3345-0000**](tel:1133450000)
 
