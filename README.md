@@ -52,7 +52,7 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 > * **AirLocker:** Suporte (encomendas/cadastro) no **(11) 97863-3323**
 > * **Manutenção Elevadores:** Crel Elevadores
 
-### ☎️ Ramais das Áreas Comuns
+## ☎️ Ramais das Áreas Comuns
 
 
 | Local | Ramal |
