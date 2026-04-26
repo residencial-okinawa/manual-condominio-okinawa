@@ -127,37 +127,26 @@ Conforme a legislação de SP, estes itens **jamais** devem ser jogados no lixo 
 
 ---
 
----
-
 ## 🏗️ Entulho, Madeira e Tintas (Ecopontos)
 
 Restos de reforma, madeiras e latas de tinta **não são recolhidos pela coleta comum** e é proibido descartá-los nas áreas comuns do condomínio. O descarte irregular em via pública é crime ambiental sujeito a multa pesada.
 
-Para estes materiais, utilize os **Ecopontos da Prefeitura**. O serviço é gratuito para até 1m³ por dia (aprox. 25 sacos de entulho).
+Para estes materiais, utilize os **Ecopontos da Prefeitura**. O serviço é gratuito para até 1m³ por dia (volume de uma caixa d'água pequena).
 
-### 📍 Unidades mais próximas (Vila Nova Manchester):
+### 📍 Unidades mais próximas:
 
-1. **Ecoponto Vila Carrão**
-   * **Endereço:** Rua Guedes de Cassia, s/n (próximo à Av. Conselheiro Carrão).
-   * **Distância aprox.:** 5 min de carro.
+1. **Ecoponto Astarte (Vila Carrão)** ⬅️ *Mais próximo*
+   * **Endereço:** Rua Astarte, 500 - Vila Carrão.
 
-2. **Ecoponto Aricanduva**
-   * **Endereço:** Rua Senador Felipe Schmidt, s/n (esquina com a Av. Aricanduva).
-   * **Distância aprox.:** 8 min de carro.
+2. **Ecoponto Viaduto Eng.º Alberto Badra**
+   * **Endereço:** Av. Aricanduva, nº 200 - Sob o viaduto.
 
 3. **Ecoponto Penha**
    * **Endereço:** Rua Dr. Heládio, 104.
-   * **Distância aprox.:** 10 min de carro.
 
 ### 🕒 Horário de Funcionamento:
 * **Segunda a Sábado:** 06h às 22h.
 * **Domingos e Feriados:** 06h às 18h.
-
-### ✅ O que pode levar?
-* Resíduos de construção civil (cimento, tijolos, azulejos).
-* Madeiras e móveis velhos desmontados.
-* Restos de poda de árvore.
-* Latas de tinta (vazias ou com resíduo seco).
 
 > [!CAUTION]
 > **Atenção:** Os Ecopontos **não aceitam** lixo orgânico, lixo hospitalar ou amianto (telhas de brasilit).
