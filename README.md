@@ -10,6 +10,10 @@
 3. [☎️ Ramais das Áreas Comuns](#-ramais-das-áreas-comuns)
 4. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
 5. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
+6. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
+7. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
+
+
 
 ---
 
@@ -92,3 +96,68 @@ O respeito ao descanso alheio é fundamental. Seguimos a **Lei Municipal nº 16.
 ## 🗑️ Coleta de Lixo
 * **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que fica fora do saco causa mau odor e não é levado pelos coletores.
 * **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio pode ser processado em caso de acidente com o coletor.
+
+---
+
+## ♻️ Descarte de Recicláveis
+
+Em conformidade com o **Plano de Gestão Integrada de Resíduos Sólidos da Cidade de São Paulo**, nosso condomínio realiza a separação de materiais para coleta seletiva. A colaboração de todos reduz o impacto ambiental e os custos de limpeza.
+
+### 🧤 Como separar corretamente?
+Para que o material seja aceito pelas cooperativas, ele deve estar **limpo e seco**:
+
+*   **Papel e Papelão:** Caixas de papelão devem ser **desmontadas (achatadas)** para não ocupar espaço excessivo na lixeira.
+*   **Plásticos:** Enxágue embalagens de alimentos (iogurtes, molhos) para evitar mau odor e proliferação de insetos.
+*   **Vidros:** Devem estar inteiros ou, se quebrados, embalados em papel resistente (leite, jornal) com aviso escrito **"CUIDADO: VIDRO"**.
+*   **Metais:** Latinhas de alumínio e tampas de conserva.
+*   **Isopor:** A empresa responsável pela coleta seletiva, **permite** que descartemos isopores na caçamba.
+
+> [!CAUTION]
+> **O que NÃO é reciclável:**
+> Papel higiênico, fraldas descartáveis, absorventes, cerâmicas, cristais, espelhos, papéis metalizados (salgadinhos) e bitucas de cigarro. Estes devem ir para o **Lixo Comum**.
+
+### 🔋 Itens Especiais (Logística Reversa)
+Conforme a legislação de SP, estes itens **jamais** devem ser jogados no lixo comum ou reciclável do prédio:
+1.  **Pilhas e Baterias:** Entregar em pontos de coleta em supermercados ou farmácias.
+2.  **Lâmpadas Fluorescentes:** Devem ser devolvidas em lojas de materiais de construção (ex: Leroy Merlin, Telhanorte).
+3.  **Eletrônicos:** Devem ser descartados em postos específicos de reciclagem tecnológica.
+
+> [!TIP]
+> **Óleo de Cozinha:** Nunca despeje óleo na pia ou no vaso sanitário. Armazene em garrafas PET e deixe ao lado da caçamba de recicláveis ou despeje no galão de disponibilizamos no local.
+
+---
+
+---
+
+## 🏗️ Entulho, Madeira e Tintas (Ecopontos)
+
+Restos de reforma, madeiras e latas de tinta **não são recolhidos pela coleta comum** e é proibido descartá-los nas áreas comuns do condomínio. O descarte irregular em via pública é crime ambiental sujeito a multa pesada.
+
+Para estes materiais, utilize os **Ecopontos da Prefeitura**. O serviço é gratuito para até 1m³ por dia (aprox. 25 sacos de entulho).
+
+### 📍 Unidades mais próximas (Vila Nova Manchester):
+
+1. **Ecoponto Vila Carrão**
+   * **Endereço:** Rua Guedes de Cassia, s/n (próximo à Av. Conselheiro Carrão).
+   * **Distância aprox.:** 5 min de carro.
+
+2. **Ecoponto Aricanduva**
+   * **Endereço:** Rua Senador Felipe Schmidt, s/n (esquina com a Av. Aricanduva).
+   * **Distância aprox.:** 8 min de carro.
+
+3. **Ecoponto Penha**
+   * **Endereço:** Rua Dr. Heládio, 104.
+   * **Distância aprox.:** 10 min de carro.
+
+### 🕒 Horário de Funcionamento:
+* **Segunda a Sábado:** 06h às 22h.
+* **Domingos e Feriados:** 06h às 18h.
+
+### ✅ O que pode levar?
+* Resíduos de construção civil (cimento, tijolos, azulejos).
+* Madeiras e móveis velhos desmontados.
+* Restos de poda de árvore.
+* Latas de tinta (vazias ou com resíduo seco).
+
+> [!CAUTION]
+> **Atenção:** Os Ecopontos **não aceitam** lixo orgânico, lixo hospitalar ou amianto (telhas de brasilit).
