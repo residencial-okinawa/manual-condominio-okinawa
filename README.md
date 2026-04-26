@@ -57,7 +57,7 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 >
 > * **Portaria Remota:** [**2652-2650**](tel:1126522650) | [**94000-3525**](tel:11940003525)
 > * **AirLocker:** Suporte (encomendas/cadastro) [**97863-3323**](tel:11978633323)
-> * **Manutenção Elevadores:** Crel Elevadores
+> * **Manutenção Elevadores:** Crel Elevadores [**3345-0000**](tel:1133450000)
 
 ## ☎️ Ramais das Áreas Comuns
 
