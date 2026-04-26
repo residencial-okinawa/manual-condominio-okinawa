@@ -101,19 +101,21 @@ Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosame
 ---
 
 ## 🗑️ Coleta de Lixo
-* **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que fica fora do saco causa mau odor e não é levado pelos coletores.
+* **Dias de Coletas:** Terças, Quintas e Sabados (Entre 00h30 e 02h00).
+* **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que é descartado fora do sacos apropriados não é levado pelos coletores, e causa mal odor e sujidade na lixeira.
 * **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio é passível de processo em caso de acidente com o coletor.
-
+  
 [⬆️ Voltar ao índice](#-sumário)
 
 ---
 
 ## ♻️ Descarte de Recicláveis
+* **Dias de Coletas:** Quartas e Sabados (A partir das 21hr).
 A colaboração de todos reduz o impacto ambiental e os custos de limpeza do nosso condomínio.
 
 ### 🧤 Como separar corretamente?
 O material deve estar **limpo e seco**:
-*   **Papel e Papelão:** Caixas devem ser **desmontadas (achatadas)**.
+*   **Papel e Papelão:** Caixas devem ser **desmontadas (achatadas)**. **Não deixar papelões para fora da caçamba**
 *   **Plásticos:** Enxágue embalagens de alimentos para evitar insetos.
 *   **Vidros:** Inteiros ou embalados em papel resistente com aviso **"CUIDADO: VIDRO"**.
 *   **Isopor:** A empresa responsável pela nossa coleta seletiva **permite** o descarte de isopores na caçamba de recicláveis.
