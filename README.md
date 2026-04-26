@@ -50,8 +50,8 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 > [!WARNING]
 > **Dica do Síndico:** Para problemas internos do condomínio (interfone, elevador ou áreas comuns), ligue para a **Portaria (Ramal 900)**.
 >
-> * **Portaria Remota:** (11) 2652-2650 | (11) 94000-3525
-> * **AirLocker:** Suporte (encomendas/cadastro) no **(11) 97863-3323**
+> * **Portaria Remota:** [**2652-2650**](tel:1126522650) | 94000-3525
+> * **AirLocker:** Suporte (encomendas/cadastro) [**978633323**](tel:11978633323)
 > * **Manutenção Elevadores:** Crel Elevadores
 
 ## ☎️ Ramais das Áreas Comuns
