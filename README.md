@@ -5,8 +5,8 @@
 ---
 
 ## 📌 Sumário
-1. [👋 Boas-vindas](#-boas-vindas)
-2. [🏢 Sobre o Residencial](#-sobre-o-residencial)
+1. [🏢 Sobre o Residencial](#-sobre-o-residencial)
+2. [👋 Boas-vindas](#-boas-vindas)
 3. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
 4. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
 5. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
