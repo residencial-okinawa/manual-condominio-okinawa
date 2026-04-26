@@ -105,7 +105,7 @@ Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosame
 * **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que é descartado fora do sacos apropriados não é levado pelos coletores, e causa mal odor e sujidade na lixeira.
 * **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio é passível de processo em caso de acidente com o coletor.
 
-[!TIP]
+> [!TIP]
 Sacolas de supermercado podem ser utilizadas para descarte, mas se atentem a não deixá-las cheias, durante o manuseio do coletor a mesma costuma se rasgar quando estão assim e todo o lixo é deixado no chão da lixeira ou até mesmo na nossa calçada.
 
 [⬆️ Voltar ao índice](#-sumário)
