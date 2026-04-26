@@ -9,16 +9,15 @@
 2. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
 3. [☎️ Ramais das Áreas Comuns](#-ramais-das-áreas-comuns)
 4. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
-5. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
-6. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
-7. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
-
-
+5. [🛠️ Obras e Reparos](#️-obras-e-reparos)
+6. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
+7. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
+8. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
 
 ---
 
 ## 🏢 Sobre o Residencial
-Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores...
+Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores do Residencial Okinawa.
 
 ## 📞 Telefones de Emergência e Serviços (SP)
 
@@ -35,9 +34,9 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 | **Defesa Civil** | **199** | Alagamentos, desabamentos ou riscos estruturais. |
 
 ### 🏙️ Serviços Municipais (São Paulo)
-*   **Central SP156:** Ligue **156** para reclamações de barulho (PSIU), iluminação pública, poda de árvores ou coleta de lixo irregular.
+*   **Central SP156:** Ligue **156** para reclamações de barulho (PSIU), iluminação pública ou coleta irregular.
 *   **Delegacia da Mulher:** Ligue **180** para denúncias de violência doméstica.
-*   **Guarda Civil Metropolitana (GCM):** Ligue **153** para proteção de bens e espaços públicos.
+*   **GCM:** Ligue **153** para proteção de espaços públicos.
 
 ### ⚡ Concessionárias de Serviço Público
 *   **Enel (Energia):** **0800 7272 120**
@@ -62,9 +61,6 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 | **Elevador de Serviço** | 210 |
 | **Salão de Festas** | 207 |
 
-> [!TIP]
-> Para discar entre unidades ou para áreas comuns, basta retirar o fone do gancho e digitar o ramal.
-
 ---
 
 ## 🤫 Horário de Silêncio e Sossego
@@ -81,57 +77,53 @@ O respeito ao descanso alheio é fundamental. Seguimos a **Lei Municipal nº 16.
 > [!IMPORTANT]
 > **Atenção:** O direito ao sossego é garantido **24 horas por dia**. Barulhos excessivos (gritaria, som alto, arraste de móveis) podem ser passíveis de notificação em qualquer horário.
 
-### 🛠️ Obras e Reparos
+---
+
+## 🛠️ Obras e Reparos
+Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosamente os horários abaixo:
 * **Segunda a Sexta:** das 08h às 17h.
 * **Sábados:** das 08h30 às 15h.
-* **Domingos e Feriados:** Proibido realizar obras ruidosas.
+* **Domingos e Feriados:** **Proibido** realizar obras ruidosas.
 
 ### 📢 Como reportar problemas?
 1. **Diálogo Amigável:** Tente conversar com o vizinho primeiro.
-2. **Livro de Ocorrências:** Interfona na Portaria (900) e registre formalmente no app **Condopro**.
+2. **Livro de Ocorrências:** Interfone na Portaria (900) e registre formalmente no app **Condopro**.
 3. **Casos Graves:** Acione a Prefeitura pelo **156**.
 
 ---
 
 ## 🗑️ Coleta de Lixo
 * **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que fica fora do saco causa mau odor e não é levado pelos coletores.
-* **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio pode ser processado em caso de acidente com o coletor.
+* **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio é passível de processo em caso de acidente com o coletor.
 
 ---
 
 ## ♻️ Descarte de Recicláveis
-
-Em conformidade com o **Plano de Gestão Integrada de Resíduos Sólidos da Cidade de São Paulo**, nosso condomínio realiza a separação de materiais para coleta seletiva. A colaboração de todos reduz o impacto ambiental e os custos de limpeza.
+A colaboração de todos reduz o impacto ambiental e os custos de limpeza do nosso condomínio.
 
 ### 🧤 Como separar corretamente?
-Para que o material seja aceito pelas cooperativas, ele deve estar **limpo e seco**:
-
-*   **Papel e Papelão:** Caixas de papelão devem ser **desmontadas (achatadas)** para não ocupar espaço excessivo na lixeira.
-*   **Plásticos:** Enxágue embalagens de alimentos (iogurtes, molhos) para evitar mau odor e proliferação de insetos.
-*   **Vidros:** Devem estar inteiros ou, se quebrados, embalados em papel resistente (leite, jornal) com aviso escrito **"CUIDADO: VIDRO"**.
-*   **Metais:** Latinhas de alumínio e tampas de conserva.
-*   **Isopor:** A empresa responsável pela coleta seletiva, **permite** que descartemos isopores na caçamba.
+O material deve estar **limpo e seco**:
+*   **Papel e Papelão:** Caixas devem ser **desmontadas (achatadas)**.
+*   **Plásticos:** Enxágue embalagens de alimentos para evitar insetos.
+*   **Vidros:** Inteiros ou embalados em papel resistente com aviso **"CUIDADO: VIDRO"**.
+*   **Isopor:** A empresa responsável pela nossa coleta seletiva **permite** o descarte de isopores na caçamba de recicláveis.
 
 > [!CAUTION]
-> **O que NÃO é reciclável:**
-> Papel higiênico, fraldas descartáveis, absorventes, cerâmicas, cristais, espelhos, papéis metalizados (salgadinhos) e bitucas de cigarro. Estes devem ir para o **Lixo Comum**.
+> **O que NÃO é reciclável:** Papel higiênico, fraldas, absorventes, cerâmicas, cristais e bitucas de cigarro. Descarte no **Lixo Comum**.
 
 ### 🔋 Itens Especiais (Logística Reversa)
-Conforme a legislação de SP, estes itens **jamais** devem ser jogados no lixo comum ou reciclável do prédio:
-1.  **Pilhas e Baterias:** Entregar em pontos de coleta em supermercados ou farmácias.
-2.  **Lâmpadas Fluorescentes:** Devem ser devolvidas em lojas de materiais de construção (ex: Leroy Merlin, Telhanorte).
-3.  **Eletrônicos:** Devem ser descartados em postos específicos de reciclagem tecnológica.
+Estes itens **jamais** devem ir para o lixo comum:
+1.  **Pilhas e Baterias:** Pontos de coleta em supermercados/farmácias.
+2.  **Lâmpadas:** Devolver em lojas de materiais de construção.
+3.  **Eletrônicos:** Descartar em postos de reciclagem tecnológica.
 
 > [!TIP]
-> **Óleo de Cozinha:** Nunca despeje óleo na pia ou no vaso sanitário. Armazene em garrafas PET e deixe ao lado da caçamba de recicláveis ou despeje no galão de disponibilizamos no local.
+> **Óleo de Cozinha:** Nunca jogue na pia. Armazene em garrafas PET e deixe ao lado da caçamba de recicláveis ou despeje no galão que disponibilizamos no local.
 
 ---
 
 ## 🏗️ Entulho, Madeira e Tintas (Ecopontos)
-
-Restos de reforma, madeiras e latas de tinta **não são recolhidos pela coleta comum** e é proibido descartá-los nas áreas comuns do condomínio. O descarte irregular em via pública é crime ambiental sujeito a multa pesada.
-
-Para estes materiais, utilize os **Ecopontos da Prefeitura**. O serviço é gratuito para até 1m³ por dia (volume de uma caixa d'água pequena).
+Materiais volumosos não são recolhidos pela coleta comum. Utilize os **Ecopontos da Prefeitura** (gratuito até 1m³ p/ dia).
 
 ### 📍 Unidades mais próximas:
 
@@ -147,6 +139,3 @@ Para estes materiais, utilize os **Ecopontos da Prefeitura**. O serviço é grat
 ### 🕒 Horário de Funcionamento:
 * **Segunda a Sábado:** 06h às 22h.
 * **Domingos e Feriados:** 06h às 18h.
-
-> [!CAUTION]
-> **Atenção:** Os Ecopontos **não aceitam** lixo orgânico, lixo hospitalar ou amianto (telhas de brasilit).
