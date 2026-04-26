@@ -4,15 +4,24 @@
 
 ---
 
+## 📌 Sumário
+1. [🏢 Sobre o Residencial](#-sobre-o-residencial)
+2. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
+3. [☎️ Ramais das Áreas Comuns](#-ramais-das-áreas-comuns)
+4. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
+5. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
+
+---
+
 ## 🏢 Sobre o Residencial
 Este manual visa organizar as informações, regras e facilitar o acesso aos contatos úteis para todos os moradores...
-
 
 ## 📞 Telefones de Emergência e Serviços (SP)
 
 Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os números principais na agenda do seu celular.
 
 ### 🚨 Emergências 24h
+
 
 | Serviço | Telefone | Quando ligar? |
 | :--- | :--- | :--- |
@@ -27,21 +36,20 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 *   **Guarda Civil Metropolitana (GCM):** Ligue **153** para proteção de bens e espaços públicos.
 
 ### ⚡ Concessionárias de Serviço Público
-*   **Enel (Energia):** **0800 7272 120** (Falta de luz ou fios caídos).
-*   **Sabesp (Água/Esgoto):** **0800 011 9911** (Vazamentos na rua ou falta d'água).
-*   **Comgás (Gás Canalizado):** **0800 0110 197** (Cheiro de gás ou emergências).
+*   **Enel (Energia):** **0800 7272 120**
+*   **Sabesp (Água/Esgoto):** **0800 011 9911**
+*   **Comgás (Gás):** **0800 0110 197**
 
 ---
+
 > [!WARNING]
-> **Dica do Síndico:** Para problemas internos do condomínio (interfone quebrado, elevador parado sem passageiro ou problemas nas áreas comuns), entre em contato diretamente com a **Portaria** pelo ramal **900**.
+> **Dica do Síndico:** Para problemas internos do condomínio (interfone, elevador ou áreas comuns), ligue para a **Portaria (Ramal 900)**.
 >
-> **AirLocker:** Em caso de problemas com suas encomendas e atualizações de cadastros Suporte **978633323**.
->
-> **Portaria Remota** Além do ramal 900, a portaria nos atende também pelo telefone **26522650** e **940003525**
->
-> **Manutenção dos Elevadores** Crel Elevadores
->
-### 📞 Ramais das Áreas Comuns
+> * **Portaria Remota:** (11) 2652-2650 | (11) 94000-3525
+> * **AirLocker:** Suporte (encomendas/cadastro) no **(11) 97863-3323**
+> * **Manutenção Elevadores:** Crel Elevadores
+
+### ☎️ Ramais das Áreas Comuns
 
 
 | Local | Ramal |
@@ -51,40 +59,36 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 | **Salão de Festas** | 207 |
 
 > [!TIP]
-> Para discar entre unidades ou para as áreas comuns, basta retirar o fone do gancho e digitar o ramal correspondente.
+> Para discar entre unidades ou para áreas comuns, basta retirar o fone do gancho e digitar o ramal.
 
-
-
+---
 
 ## 🤫 Horário de Silêncio e Sossego
 
-O respeito ao descanso alheio é fundamental para a boa convivência. Nosso condomínio segue as diretrizes da **Lei Municipal nº 16.402/16 (Lei do PSIU)** e o **Código Civil**.
-
-### ⏰ Períodos e Limites de Ruído
-Conforme a legislação da cidade de São Paulo para zonas residenciais, os limites de som (medidos em decibéis) são:
+O respeito ao descanso alheio é fundamental. Seguimos a **Lei Municipal nº 16.402/16 (Lei do PSIU)** e o **Código Civil**.
 
 
-| Período | Horário | Limite Permitido | Exemplos |
-| :--- | :--- | :--- | :--- |
-| **Diurno** | 07h às 19h | **50 dB** | Conversa normal, rádio baixo. |
-| **Vespertino** | 19h às 22h | **45 dB** | Sons moderados de TV/vocal. |
-| **Noturno** | 22h às 07h | **40 dB** | Silêncio predominante. |
+| Período | Horário | Limite Permitido |
+| :--- | :--- | :--- |
+| **Diurno** | 07h às 19h | **50 dB** |
+| **Vespertino** | 19h às 22h | **45 dB** |
+| **Noturno** | 22h às 07h | **40 dB** |
 
 > [!IMPORTANT]
-> **Atenção:** O direito ao sossego é garantido **24 horas por dia**. Barulhos excessivos que causem incômodo (como gritaria, som muito alto ou arraste de móveis) podem ser passíveis de notificação mesmo fora do horário noturno.
+> **Atenção:** O direito ao sossego é garantido **24 horas por dia**. Barulhos excessivos (gritaria, som alto, arraste de móveis) podem ser passíveis de notificação em qualquer horário.
 
 ### 🛠️ Obras e Reparos
-Seguindo o padrão de São Paulo para evitar poluição sonora:
 * **Segunda a Sexta:** das 08h às 17h.
 * **Sábados:** das 08h30 às 15h.
 * **Domingos e Feriados:** Proibido realizar obras ruidosas.
 
 ### 📢 Como reportar problemas?
-1. **Diálogo Amigável:** Sempre tente conversar com o vizinho primeiro.
-2. **Livro de Ocorrências:** Interfonar na portaria (Ramal 900). Tenha certeza que o ruído vem da unidade que irá reportar. Registre formalmente no app Condopro do condomínio. 
-3. **Casos Graves:** Em situações de abuso extremo após as 22h, o morador pode acionar a Central de Atendimento da Prefeitura pelo telefone **156** ou o **PSIU**.
+1. **Diálogo Amigável:** Tente conversar com o vizinho primeiro.
+2. **Livro de Ocorrências:** Interfona na Portaria (900) e registre formalmente no app **Condopro**.
+3. **Casos Graves:** Acione a Prefeitura pelo **156**.
 
+---
 
 ## 🗑️ Coleta de Lixo
-* O lixo deve ser colocado na lixeira em saco plastico resistente e fechado. Lembrem-se que os coletores passam de madrugada e o que não esta dentro de sacos apropriados acabam ficando "para traz" causando mal odor e sujidade até a proxima coleta.
-* Não descarte vidros sem a devida proteção e identificação, o condominio é passível de processo em caso de acidente com o coletor.
+* **Sacagem:** O lixo deve estar em sacos plásticos resistentes e bem fechados. O que fica fora do saco causa mau odor e não é levado pelos coletores.
+* **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio pode ser processado em caso de acidente com o coletor.
