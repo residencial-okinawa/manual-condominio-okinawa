@@ -53,7 +53,7 @@ Em caso de necessidade, utilize os contatos abaixo. Recomendamos salvar os núme
 ---
 
 > [!WARNING]
-> **Dica do Síndico:** Para problemas internos do condomínio (interfone, elevador ou áreas comuns), ligue para a **Portaria (Ramal 900)**.
+> **Dica do Síndico:** Para problemas internos do condomínio, ligue para a **Portaria (Ramal 900)**.
 >
 > * **Portaria Remota:** [**2652-2650**](tel:1126522650) | [**94000-3525**](tel:11940003525)
 > * **AirLocker:** Suporte (encomendas/cadastro) [**97863-3323**](tel:11978633323)
@@ -111,10 +111,10 @@ Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosame
 * **Vidros:** Jamais descarte vidros sem proteção e identificação. O condomínio é passível de processo em caso de acidente com o coletor.
 
 > [!TIP]
-*   **Volume das Sacolas:** Evite enchê-las até o limite.
-*   **Por que?** Sacolas muito cheias rasgam no manuseio, espalhando lixo na calçada.
-*   **Dica:** Divida o lixo em mais sacolas para garantir que o descarte chegue intacto ao caminhão.
-*   **Dica 2:** Quando tiver restos que causem umidade excesiva, utilize mais sacos para que o lixo não pingue no trajeto até a lixeira.
+> * **Volume das Sacolas:** Evite enchê-las até o limite.
+> * **Por que?** Sacolas rasgam no manuseio, espalhando lixo na calçada.
+> * **Dica 1:** Divida o lixo em mais sacolas para garantir que chegue intacto.
+> * **Dica 2:** Para resíduos úmidos, use sacos duplos para evitar gotejamento no trajeto até a lixeira.
 
 [⬆️ Voltar ao índice](#-sumário)
 
